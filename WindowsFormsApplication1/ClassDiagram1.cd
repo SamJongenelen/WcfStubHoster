@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="WindowsFormsApplication1.CodaWebServiceStub" BaseTypeListCollapsed="true">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Coda\CodaWebServiceStub.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WindowsFormsApplication1.WcfStubHoster">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>WcfStubHoster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="WindowsFormsApplication1.ICodaWebServiceContract">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Coda\ICodaWebServiceContract.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsFormsApplication1.IWebservice" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>WebserviceHoster\IWebservice.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="WindowsFormsApplication1.ServiceNaam">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WebserviceHoster\ServiceEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
