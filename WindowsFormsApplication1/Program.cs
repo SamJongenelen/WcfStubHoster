@@ -18,11 +18,12 @@ namespace WindowsFormsApplication1
             //Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Form1());
 
-            var s = new WcfStubHoster();
-            s.Start(ServiceNaam.Coda);
+            ExeRunner er = new ExeRunner("VOORBEREIDENRUN","123456789");
+            //var s = new WcfStubHoster();
+            //s.Start(ServiceNaam.Coda);
 
             
-            s.Stop(ServiceNaam.Coda);
+            //s.Stop(ServiceNaam.Coda);
         }
     }
 }

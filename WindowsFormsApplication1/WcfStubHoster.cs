@@ -27,7 +27,7 @@ namespace WindowsFormsApplication1
             {
                 switch (serviceHost.Status)
                 {
-                    
+
                     case CommunicationState.Opening:
                     case CommunicationState.Opened:
                         //do nothing

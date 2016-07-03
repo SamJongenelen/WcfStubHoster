@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Coda\CodaWebServiceStub.cs" />
+    <Compile Include="ExeRunner.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
